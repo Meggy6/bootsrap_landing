@@ -593,11 +593,6 @@ textarea.form-control{
 		max-width: 410px;
 	}
 }
-@media (max-width: 380px){
-	.portfolio-content p {
-		max-width: 262px;
-	}
-}
 .port-tabs{
 	border: none;
 }
